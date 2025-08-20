@@ -4,7 +4,7 @@
 You can see it here: [let_school_bot.py](let_school_bot.py).
 
 ### What have I learned during the process of making this bot:
-1) Using AI can simplify a lot of hard cases.
+1) Using AI can simplify a lot of hard cases, but I should't use it too much in order to master the skill of bot making (or any other skill).
 2) Better to have another device in order to test your code.
 3) VS Code is a nice application, from which you can control the work of your code, even if it's placed on a server.
 4) Just as VS Code, PowerShell enables me to have an access to my server (just like PuTTY or FileZilla - both did't work in my case).
