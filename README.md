@@ -1,4 +1,4 @@
-# Telegram_bot_1
+# Telegram bot
 *This is my first (and simple) bot designed to register Russian students for a course.*
 
 You can see it here: [let_school_bot.py](let_school_bot.py).
